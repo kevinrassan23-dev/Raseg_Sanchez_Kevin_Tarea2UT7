@@ -20,6 +20,7 @@ y recetas documentadas.
 | "carne mechada" | Navega a la receta de Carne Mechada |
 | "gofio canario" | Navega a la receta de Gofio Escaldao |
 
+
 > NOTA: Se deben conceder permisos de audio en la aplicación.
 
 Creado por: Kevin 2ºA-DAM
